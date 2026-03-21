@@ -28,7 +28,7 @@ author:
   pronouns         : "Him/His"# example: "she/her"  
   bio              : "Undergrad student at HKUST"
   location         : "Hong Kong"
-  employer         : "The Hong Kong University of Science and Technology"
+  employer         : "HKUST"
   uri              : # URL
   email            : "hwangfs[at]connect[dot]ust[dot]hk" # Email address (will be obfuscated in the HTML output to prevent scraping)
 
@@ -74,7 +74,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : hwwang06 # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
