@@ -70,11 +70,11 @@ I am broadly interested in LLM alignment, agent and multimodal LLM.
 ## Publication 📝
 
 - **GeoBrowse: A Geolocation Benchmark for Agentic Tool Use with Expert-Annotated Reasoning Traces**\
-Xinyu Geng*, Yanjing Xiao*, Yuyang Zhang*, <u>Hanwen Wang</u>, Xinyan Liu, Rui Min, Tianqing Fang, Yi R. Fung
+Xinyu Geng\*, Yanjing Xiao\*, Yuyang Zhang\*, <u>Hanwen Wang</u>, Xinyan Liu, Rui Min, Tianqing Fang, Yi R. Fung
 [[arxiv]](https://arxiv.org/abs/2604.04017)
 
 - **GProofT: A Multi-dimension Multi-round Fact Checking Framework Based on Claim Fact Extraction**\
-Jiayu Liu*, Junhao Tang∗, <u>Hanwen Wang∗</u>,
+Jiayu Liu\*, Junhao Tang\*, <u>Hanwen Wang\*</u>,
 Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song
 [[Proceedings]](https://aclanthology.org/2024.fever-1.14.pdf)
 
