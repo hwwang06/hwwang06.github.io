@@ -57,4 +57,26 @@ For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
-I am Hanwen Wang, undergrad student at [Department of Computer Science and Engineering](cse.hkust.edu.hk), Hong Kong University of Science and Technology ([HKUST](hkust.edu.hk)). I was fortunate to be supervised by [Dr. May Fung](mayrfung.github.io), [Dr. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I did my exchange study at [Siebel School of Computing and Data Science](https://siebelschool.illinois.edu/), University of Illinois at Urbana-Champaign ([UIUC](illinois.edu)). 
+I am Hanwen Wang, undergrad student at [Department of Computer Science and Engineering](https://cse.hkust.edu.hk), Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk)). I was fortunate to be supervised by [Dr. May Fung](https://mayrfung.github.io), [Dr. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I did my exchange study at [Siebel School of Computing and Data Science](https://siebelschool.illinois.edu/), University of Illinois at Urbana-Champaign ([UIUC](https://illinois.edu)). 
+I am broadly interested in LLM alignment, agent and multimodal LLM. 
+## Education 🎓
+- Hong Kong University of Science and Technology
+Sep 2023 - Jun 2027 (expected) |<em> B.Eng in Computer Science </em> 
+
+- Sep 2025 - Dec 2025 University of Illinois at Urbana-Champaign | <em> Exchange Study </em>
+
+
+## Publication 📝
+
+- **GeoBrowse: A Geolocation Benchmark for Agentic Tool Use with Expert-Annotated Reasoning Traces**\
+Xinyu Geng*, Yanjing Xiao*, Yuyang Zhang*, <u>Hanwen Wang</u>, Xinyan Liu, Rui Min, Tianqing Fang, Yi R. Fung
+[[arxiv]](https://arxiv.org/abs/2604.04017)
+
+- **GProofT: A Multi-dimension Multi-round Fact Checking Framework Based on Claim Fact Extraction**\
+Jiayu Liu*, Junhao Tang∗, <u>Hanwen Wang∗</u>,
+Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song
+[[Proceedings]](https://aclanthology.org/2024.fever-1.14.pdf)
+
+## Honors and Award 🏆
+- Dean's List
+- University Scholarship for Countinuing Students
