@@ -59,6 +59,44 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 
 I am Hanwen Wang, undergrad student at [Department of Computer Science and Engineering](https://cse.hkust.edu.hk), Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk)). I was fortunate to be supervised by [Dr. May Fung](https://mayrfung.github.io), [Dr. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I did my exchange study at [Siebel School of Computing and Data Science](https://siebelschool.illinois.edu/), University of Illinois at Urbana-Champaign ([UIUC](https://illinois.edu)). 
 I am broadly interested in LLM alignment, agent and multimodal LLM. 
+
+
+## News 🔥
+<style>
+.news-container {
+  max-height: 400px;
+  overflow-y: auto;
+  padding-right: 10px;
+}
+.news-container::-webkit-scrollbar {
+  width: 8px;
+}
+.news-container::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+.news-container::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+.news-container::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+.news-item {
+  margin-bottom: 12px;
+  line-height: 1.5;
+}
+</style>
+
+<div class="news-container">
+  <div class="news-item">• <strong>[Sep 2025]</strong> ✈️ Traveled to <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a> as an exchange undergraduate student in Fall 2025! Had wonderful experience here! </div>
+  <div class="news-item">• <strong>[June 2025]</strong> ✈️ Traveled to <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a> in Singapore for summer exchange! </div>
+  <div class="news-item">• <strong>[Sep 2025]</strong> 🔬 Honored to join HKUST <a href="https://mayrfung.github.io/group/">RenAI Lab</a> as a undergraduate research intern, advised by <a href="https://mayrfung.github.io/group/">Prof. Yi R. May Fung</a>!</div>
+  <div class="news-item">• <strong>[Oct 2025]</strong> 🎉 My co-first-author paper <a href="https://aclanthology.org/2024.fever-1.14/"><em>GProofT</em></a> is accepted by <a href="https://fever.ai/2024/workshop.html">The Seventh FEVER Workshop</a>! Shout out to all collaborators and mentors! </div>
+  <div class="news-item">• <strong>[June 2025]</strong> 🔬 Honored to join HKUST <a href="https://github.com/HKUST-KnowComp">KnowComp Group</a> as a undergraduate research intern, advised by <a href="https://www.cse.ust.hk/~yqsong/">Prof. Yangqiu Song</a>!</div>
+
+</div>
+
 ## Education 🎓
 - **Hong Kong University of Science and Technology**  
   Sep 2023 - Jun 2027 (expected) | <em>B.Eng in Computer Science</em>
