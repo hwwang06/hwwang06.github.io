@@ -2,6 +2,10 @@
 
 <meta charset="utf-8">
 
+{% if page.url == "/" or page.permalink == "/" %}
+<meta name="google-site-verification" content="RQsFyOGFWxG5QnOmMcRxCBISm5WfKrTjpIsWkBUHdSE" />
+{% endif %}
+
 {% include seo.html %}
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
