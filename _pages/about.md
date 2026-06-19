@@ -88,6 +88,7 @@ I am broadly interested in LLM alignment, agent and multimodal LLM.
 </style>
 
 <div class="news-container">
+  <div class="news-item">• <strong>[Jun 2026]</strong> 🎉 One paper <a href="https://arxiv.org/abs/2604.04017"><em>GeoBrowse</em></a> is accepted by ECCV 2026! Shout out to all collaborators and mentors! </div>
   <div class="news-item">• <strong>[Sep 2025]</strong> ✈️ Traveled to <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a> as an exchange undergraduate student in Fall 2025! Had wonderful experience here! </div>
   <div class="news-item">• <strong>[June 2025]</strong> ✈️ Traveled to <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a> in Singapore for summer exchange! </div>
   <div class="news-item">• <strong>[Sep 2025]</strong> 🔬 Honored to join HKUST <a href="https://mayrfung.github.io/group/">RenAI Lab</a> as a undergraduate research intern, advised by <a href="https://mayrfung.github.io/group/">Prof. Yi R. May Fung</a>!</div>
@@ -106,12 +107,12 @@ I am broadly interested in LLM alignment, agent and multimodal LLM.
 
 ## Publication 📝
 
-- **GeoBrowse: A Geolocation Benchmark for Agentic Tool Use with Expert-Annotated Reasoning Traces**\
+- **GeoBrowse: A Geolocation Benchmark for Agentic Tool Use with Expert-Annotated Reasoning Traces** [ECCV 2026]\
 Xinyu Geng\*, Yanjing Xiao\*, Yuyang Zhang\*, <u>Hanwen Wang</u>, Xinyan Liu, Rui Min, Tianqing Fang, Yi R. Fung
 [[arxiv]](https://arxiv.org/abs/2604.04017)
 
-- **GProofT: A Multi-dimension Multi-round Fact Checking Framework Based on Claim Fact Extraction**\
-Jiayu Liu\*, Junhao Tang\*, <u>Hanwen Wang\*</u>,
+- **GProofT: A Multi-dimension Multi-round Fact Checking Framework Based on Claim Fact Extraction** [FEVER Workshop]\
+Jiayu Liu\*, Junhao Tang\*, <u>Hanwen Wang*</u>,
 Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song
 [[Proceedings]](https://aclanthology.org/2024.fever-1.14.pdf)
 
