@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Hanwen Wang's Personal Website" # Update this with the title of your site
+title                    : "Hanwen Wang 王瀚文" # Update this with the title of your site
 title_separator          : "-"
 name                     : &name "Hanwen Wang"
 description              : &description "personal description"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -30,7 +30,7 @@ author:
   location         : "Hong Kong"
   employer         : "HKUST"
   uri              : # URL
-  email            : "hwangfs[at]connect[dot]ust[dot]hk" # Email address (will be obfuscated in the HTML output to prevent scraping)
+  email            : "hwangfs@connect.ust.hk" # Email address (will be obfuscated in the HTML output to prevent scraping)
 
   # Academic websites
   academia         : # URL
