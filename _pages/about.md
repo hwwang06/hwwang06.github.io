@@ -56,10 +56,13 @@ For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
-I am Hanwen Wang, final year UG student at [Department of Computer Science and Engineering](https://cse.hkust.edu.hk), Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk)). I am fortunate to be supervised by [Prof. May Fung](https://mayrfung.github.io), [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I did my exchange study at [Siebel School of Computing and Data Science](https://siebelschool.illinois.edu/), University of Illinois at Urbana-Champaign ([UIUC](https://illinois.edu)). 
+I am Hanwen Wang, final year UG student at [Department of Computer Science and Engineering](https://cse.hkust.edu.hk), Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk)). I am fortunate to be supervised by [Prof. Yuji Zhang](https://celestinezyj.github.io/), [Prof. May Fung](https://mayrfung.github.io), [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I did my exchange study at [Siebel School of Computing and Data Science](https://siebelschool.illinois.edu/), University of Illinois at Urbana-Champaign ([UIUC](https://illinois.edu)). I worked closely with [Weiqi Wang](https://mighty-weaver.github.io/), [Xinyu Geng](https://ornamentt.github.io/), [Haochen Shi](https://scholar.google.com/citations?user=1dteS3wAAAAJ&hl=zh-CN&inst=1381320739207392350), [Qing Zong](https://zongqing0068.github.io/) and many others. Thanks for their mentorship!  
+
 I am broadly interested in LLM alignment, agent and multimodal LLM. 
 
-**🔥I am looking for PhD position starting from 2027 Fall, focusing on making adaptive and trustworthy LLM agents. I am also open to Research Intern positions, drop me an email to reach out!**
+**🔥I am looking for PhD position starting from 2027 Fall, focusing on making adaptive and trustworthy LLM agents. I am also open to Research Intern positions, drop me an email to reach out if you think it is a good match!**
+
+**I am open to academic discussion and collaboration with peers. Feel free to reach out to me! Any topics are welcome!**
 
 ## News 🔥
 <style>
@@ -89,10 +92,10 @@ I am broadly interested in LLM alignment, agent and multimodal LLM.
 </style>
 
 <div class="news-container">
-  
+  <div class="news-item">• <strong>[Jun 2026]</strong> 🔬 Honored to join UIUC <a href="https://blender.cs.illinois.edu/index.html">Blender Lab</a> as an undergraduate research intern, advised by <a href="https://blender.cs.illinois.edu/hengji.html">Prof. Heng Ji</a> and <a href="https://celestinezyj.github.io/">Dr. Yuji Zhang</a>!</div>
   <div class="news-item">• <strong>[Jun 2026]</strong> 🎉 One paper <a href="https://arxiv.org/abs/2604.04017"><em>GeoBrowse</em></a> is accepted by ECCV 2026! Shout out to all collaborators and mentors! </div>
-  <div class="news-item">• <strong>[Sep 2025]</strong> ✈️ Traveled to <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a> as an exchange undergraduate student in Fall 2025! </div>
-  <div class="news-item">• <strong>[Jun 2025]</strong> ✈️ Traveled to <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a> in Singapore for summer exchange! </div>
+  <div class="news-item">• <strong>[Sep 2025]</strong> &#x1f1fa;&#x1f1f8; Traveled to <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a> as an exchange undergraduate student in Fall 2025! </div>
+  <div class="news-item">• <strong>[Jun 2025]</strong> &#x1f1f8;&#x1f1ec; Traveled to <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a> in Singapore for summer exchange! </div>
   <div class="news-item">• <strong>[Sep 2025]</strong> 🔬 Honored to join HKUST <a href="https://mayrfung.github.io/group.html/">RenAI Lab</a> as an undergraduate research intern, advised by <a href="https://mayrfung.github.io/group/">Prof. Yi R. May Fung</a>!</div>
   <div class="news-item">• <strong>[Oct 2024]</strong> 🎉 My co-first-author paper <a href="https://aclanthology.org/2024.fever-1.14/"><em>GProofT</em></a> is accepted by <a href="https://fever.ai/2024/workshop.html">The Seventh FEVER Workshop</a>! Shout out to all collaborators and mentors! </div>
   <div class="news-item">• <strong>[Apr 2024]</strong> 🔬 Honored to join HKUST <a href="https://github.com/HKUST-KnowComp">KnowComp Group</a> as an undergraduate research intern, advised by <a href="https://www.cse.ust.hk/~yqsong/">Prof. Yangqiu Song</a>!</div>
@@ -108,6 +111,9 @@ I am broadly interested in LLM alignment, agent and multimodal LLM.
 
 
 ## Publication 📝
+
+- **Which Language Should an Agent Search? Language-Aware Planning for Multilingual Deep Research** [In Submission]\
+Xinyu Geng\*, Yanjing Xiao\*, <u>Hanwen Wang*</u>, et. al, Yi R. Fung
 
 - **GeoBrowse: A Geolocation Benchmark for Agentic Tool Use with Expert-Annotated Reasoning Traces** [ECCV 2026]\
 Xinyu Geng\*, Yanjing Xiao\*, Yuyang Zhang\*, <u>Hanwen Wang</u>, Xinyan Liu, Rui Min, Tianqing Fang, Yi R. Fung
