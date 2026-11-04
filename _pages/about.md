@@ -129,6 +129,10 @@ Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song
 - University Scholarship for Countinuing Students (Top 1st percentile)
 - HKSAR Outreach Scholarship
 
+## Academic Service 💌
+
+- Reviwer: ICLR 2027
+
 ## Community Service ❤️
 - HKUST [Engineering Student Ambassador](https://seng.hkust.edu.hk/engineering-student-ambassador-program)
 - Volunteer at UIUC Grainger College of Engineering [Study Abroad](https://ipeng.grainger.illinois.edu/) Fair 
