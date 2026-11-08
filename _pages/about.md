@@ -131,7 +131,7 @@ Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song
 
 ## Academic Service 💌
 
-- Reviwer: ICLR 2027
+- Reviewer: ICLR 2027
 
 ## Community Service ❤️
 - HKUST [Engineering Student Ambassador](https://seng.hkust.edu.hk/engineering-student-ambassador-program)
