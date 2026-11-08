@@ -58,7 +58,7 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 
 I am Hanwen Wang, final year UG student at [Department of Computer Science and Engineering](https://cse.hkust.edu.hk), Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk)). I am fortunate to be supervised by [Prof. Yuji Zhang](https://celestinezyj.github.io/), [Prof. May Fung](https://mayrfung.github.io), [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I did my exchange study at [Siebel School of Computing and Data Science](https://siebelschool.illinois.edu/), University of Illinois at Urbana-Champaign ([UIUC](https://illinois.edu)). I worked closely with [Weiqi Wang](https://mighty-weaver.github.io/), [Xinyu Geng](https://ornamentt.github.io/), [Haochen Shi](https://scholar.google.com/citations?user=1dteS3wAAAAJ&hl=zh-CN&inst=1381320739207392350), [Qing Zong](https://zongqing0068.github.io/) and many others. Thanks for their mentorship!  
 
-I am broadly interested in LLM alignment, agent and multimodal LLM. 
+I am broadly interested in LLM alignment, agent and multimodal LLM. Previously, I worked on projects regarding fact checking ([GProofT](https://aclanthology.org/2024.fever-1.14.pdf)), deep search agent ([GeoBrowse](https://arxiv.org/abs/2604.04017)) and self-evolving agent([ToolBench](https://hwwang06.github.io)). 
 
 **🔥I am looking for PhD position starting from 2027 Fall, focusing on making adaptive and trustworthy LLM agents. I am also open to Research Intern positions, drop me an email to reach out if you think it is a good match!**
 
